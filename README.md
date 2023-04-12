@@ -24,6 +24,8 @@
 -  ### 🏗️ Project Design:
  *Page Object Model (POM) design pattern*
  
+ *Data Driven framework*
+ 
  *Fluent design approach*
  
  ![Screenshot allure Report](https://www.linkpicture.com/q/testngXML_2.jpg)

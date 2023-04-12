@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="registerAndScroll">
+    <test name="registerAndFalseRegister">
+        <classes>
+            <class name="Tests.RegisterTest"/>
+            <class name="Tests.TestCasesTest"/>
+            <class name="Tests.ContactUsTest"/>
+        </classes>
+    </test>
+    <test name="ScrollTestAndSearchProduct">
+        <classes>
+            <class name="Tests.ScrollTest"/>
+            <class name="Tests.SearchProduct"/>
+            <class name="Tests.ProductPageTest"/>
+        </classes>
+    </test>
+</suite>
